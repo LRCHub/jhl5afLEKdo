@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "【Hatsune Miku】 World is Mine / ryo（supercell）【初音ミク】",
+  "base_artist": "初音ミク",
+  "createdAt": "2026-03-24T11:32:19.065814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The World Is Mine",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/01_The_World_Is_Mine_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The World Is Mine",
+      "artist": "Groove Coverage",
+      "has_synced": true,
+      "path": "select/02_The_World_Is_Mine_Groove_Coverage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The World Is Mine",
+      "artist": "Groove Coverage",
+      "has_synced": false,
+      "path": "select/03_The_World_Is_Mine_Groove_Coverage.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "World Is Mine",
+      "artist": "A$AP Ferg feat. Big Sean",
+      "has_synced": true,
+      "path": "select/04_World_Is_Mine_A$AP_Ferg_feat._Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The World Is Mine",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/05_The_World_Is_Mine_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The World Is Mine",
+      "artist": "Joachim Garraud feat. JD Davis & David Guetta",
+      "has_synced": true,
+      "path": "select/06_The_World_Is_Mine_Joachim_Garraud_feat._JD_Davis_&_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The World Is Mine",
+      "artist": "Joachim Garraud, JD Davis, David Guetta",
+      "has_synced": true,
+      "path": "select/07_The_World_Is_Mine_Joachim_Garraud,_JD_Davis,_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "World Is Mine (feat. Big Sean)",
+      "artist": "A$AP Ferg",
+      "has_synced": true,
+      "path": "select/08_World_Is_Mine_(feat._Big_Sean)_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The World Is Mine - Buscemi Remix",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/09_The_World_Is_Mine_-_Buscemi_Remix_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The World Is Mine (Eli Janney's Tight Remix Club Full Version)",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/10_The_World_Is_Mine_(Eli_Janney's_Tight_Remix_Club_Full_Version)_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The World Is Mine - Eli Janney's Tight Remix (Edit)",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/11_The_World_Is_Mine_-_Eli_Janney's_Tight_Remix_(Edit)_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The World Is Mine - Live Album Version",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/12_The_World_Is_Mine_-_Live_Album_Version_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The World Is Mine (Live Album Version)",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/13_The_World_Is_Mine_(Live_Album_Version)_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The World Is Mine - Live at Koningin Elisabethzaal 2012",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/14_The_World_Is_Mine_-_Live_at_Koningin_Elisabethzaal_2012_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The World Is Mine (Marc Moulin Remix Short)",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/15_The_World_Is_Mine_(Marc_Moulin_Remix_Short)_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The World Is Mine (Radio Edit)",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/16_The_World_Is_Mine_(Radio_Edit)_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The World Is Mine (F*** Me I'm Famous remix)",
+      "artist": "David Guetta & JD Davis",
+      "has_synced": false,
+      "path": "select/17_The_World_Is_Mine_(F__Me_I'm_Famous_remix)_David_Guetta_&_JD_Davis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "World is Mine",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_World_is_Mine_初音ミク.txt"
+    }
+  ]
+}
